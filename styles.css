@@ -5,3 +5,13 @@ h1 {
   font-size: 70px;
   margin: auto;
 }
+.recipe-links li {
+  margin-top: 30px;
+}
+.recipe-links a {
+  color: black;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 6px;
+}
